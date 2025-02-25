@@ -1,7 +1,7 @@
 - 👋 Hola, soy @Robin1420
 - 👀 Estoy interesado en desarrollo web
 - 🌱 Actualmente estoy aprendiendo react
-- 💞️ Busco colaborar en desarrollo de sistemas que aporte un bien comun 
+- 💞️ Busco colaborar en desarrollo de sistemas que aporten un bien comun 
 - 📫 Cómo contactarme +51 931320429
 - 😄 Pronombres: Bytezon
 - ⚡ Dato curioso: Me encanta las motos
