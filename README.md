@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Robin1420/Robin1420/refs/heads/main/Ryzon%20Color%201.png" width="500" alt="Ryzon loading animation" />
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
 <h1 align="center">Hola, soy Robinzon Sánchez González</h1>
 
@@ -177,8 +176,7 @@ Actualmente estoy desarrollando ideas y proyectos relacionados con:
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-## Mi enfoque profesional
 
-```txt
-Programación + Redes ISP + NOC + Automatización + Sistemas internos
+
