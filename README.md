@@ -24,12 +24,20 @@
     />
   </a>
 </p>
-## Música que me inspira
+## Música que me acompaña
 
 <p align="center">
-  <a href="https://open.spotify.com/track/TU_ID_DE_CANCION">
-    <img src="./assets/spotify-card.png" width="500" alt="Canción en Spotify" />
+  <a href="https://open.spotify.com/user/31cjbt5lkjqmqn64ogpsx4pkh7q4">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cjbt5lkjqmqn64ogpsx4pkh7q4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&bar_color=f20611&bar_color_cover=false"
+      width="520"
+      alt="Spotify Now Playing"
+    />
   </a>
+</p>
+
+<p align="center">
+  <strong>Desarrollo, diseño y construyo ideas acompañado de música.</strong>
 </p>
 
 ---
