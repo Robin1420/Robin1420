@@ -24,6 +24,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
 </p>
@@ -38,8 +39,10 @@
   <strong>Desarrollo, diseño y construyo ideas acompañado de música.</strong>
 </p>
 
+---
 
-## Sobre mí
+
+Sobre mí
 
 Soy **programador junior** y **operador NOC** con experiencia en redes ISP, GPON, monitoreo, diagnóstico de incidencias, soporte técnico y desarrollo de herramientas internas.
 
@@ -47,28 +50,29 @@ Mi enfoque está en construir soluciones que conecten la operación real de una 
 
 Actualmente estoy desarrollando ideas y proyectos relacionados con:
 
-<table>
-  <tr>
-    <td>🌐 Desarrollo web moderno</td>
-    <td>⚙️ Automatización de procesos</td>
-  </tr>
-  <tr>
-    <td>📡 Redes ISP y GPON</td>
-    <td>🧠 Sistemas internos para NOC</td>
-  </tr>
-  <tr>
-    <td>🗄️ Bases de datos</td>
-    <td>📊 Monitoreo y dashboards</td>
-  </tr>
-  <tr>
-    <td>🔐 Seguridad y control de accesos</td>
-    <td>🚀 Arquitectura de software</td>
-  </tr>
-</table>
+<h2 align="center">Áreas de interés</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Desarrollo%20web%20moderno-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%20Automatización%20de%20procesos-f20611?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Redes%20ISP%20y%20GPON-f20611?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%20Sistemas%20internos%20para%20NOC-0D1117?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Bases%20de%20datos-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%20Monitoreo%20y%20dashboards-f20611?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Seguridad%20y%20control%20de%20accesos-f20611?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%20Arquitectura%20de%20software-0D1117?style=for-the-badge" />
+</p>
 
 ---
-
-## Stack técnico
 
 ### Desarrollo frontend
 
@@ -100,7 +104,7 @@ Actualmente estoy desarrollando ideas y proyectos relacionados con:
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=facc15" alt="Linux" />
 </p>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="500"/>
 
 
 
