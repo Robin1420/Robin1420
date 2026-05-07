@@ -38,8 +38,6 @@
   <strong>Desarrollo, diseño y construyo ideas acompañado de música.</strong>
 </p>
 
----
-
 
 ## Sobre mí
 
