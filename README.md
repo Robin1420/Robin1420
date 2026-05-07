@@ -104,66 +104,7 @@ Actualmente estoy desarrollando ideas y proyectos relacionados con:
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=facc15" alt="Linux" />
 </p>
 
----
-
-## Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Intranet Operativa NOC</h3>
-      <p align="center">
-        <img src="./assets/noc-preview.png" width="100%" alt="Preview Intranet NOC" />
-      </p>
-      <p>
-        Sistema interno para centralizar clientes, servicios, incidencias, inventario técnico, monitoreo, trazabilidad y operación multi-sede.
-      </p>
-      <p>
-        <strong>Enfoque:</strong> NOC, ISP, GPON, tickets, dashboards y automatización.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">RYZON Blog / CMS</h3>
-      <p align="center">
-        <img src="./assets/blog-preview.png" width="100%" alt="Preview Ryzon Blog CMS" />
-      </p>
-      <p>
-        Plataforma de noticias tecnológicas con panel administrativo, roles, publicaciones, categorías, SEO y automatización de contenido.
-      </p>
-      <p>
-        <strong>Stack:</strong> React, Vite, Supabase, SQL, n8n.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Sistema de Planos FTTP / GPON</h3>
-      <p align="center">
-        <img src="./assets/fttp-preview.png" width="100%" alt="Preview Sistema FTTP" />
-      </p>
-      <p>
-        Herramienta visual para mapear OLT, ODF, splitters, NAPs, mufas, cables de fibra, hilos y conexiones físicas.
-      </p>
-      <p>
-        <strong>Enfoque:</strong> visualización de red, inventario y trazabilidad física.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Herramientas para monitoreo ISP</h3>
-      <p align="center">
-        <img src="./assets/ryzon-banner.png" width="100%" alt="Preview Monitoreo ISP" />
-      </p>
-      <p>
-        Ideas y módulos para análisis de consumo, clientes con alto tráfico, detección operativa y reportes técnicos.
-      </p>
-      <p>
-        <strong>Enfoque:</strong> RouterOS API, dashboards y operación NOC.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" position = center; width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 
 
