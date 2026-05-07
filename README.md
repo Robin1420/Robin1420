@@ -163,20 +163,7 @@ Actualmente estoy desarrollando ideas y proyectos relacionados con:
   </tr>
 </table>
 
----
-
-## Demo visual
-
-<p align="center">
-  <img src="./assets/demo-ryzon.gif" width="90%" alt="Demo Ryzon" />
-</p>
-
-<p align="center">
-  <strong>Nota:</strong> este GIF puede representar una demo corta de tu sistema, dashboard, blog o intranet.
-</p>
-
----
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" position = center; width="200"/>
 
 
 
