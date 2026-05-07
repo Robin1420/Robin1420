@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ryzon-loader.gif" width="180" alt="Ryzon loading animation" />
+  <img src="https://avatars.githubusercontent.com/u/160292690?v=4" width="180" alt="Ryzon loading animation" />
 </p>
 
 <h1 align="center">Hola, soy Robinzon 👋</h1>
