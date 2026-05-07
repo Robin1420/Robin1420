@@ -104,7 +104,13 @@ Actualmente estoy desarrollando ideas y proyectos relacionados con:
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=facc15" alt="Linux" />
 </p>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="500"/>
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    width="500" 
+    alt="Hollow Knight Animation"
+  />
+</p>
 
 
 
