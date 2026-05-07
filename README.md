@@ -1,29 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Robin1420/Robin1420/refs/heads/main/Ryzon%20Color%201.png" width="500" alt="Ryzon loading animation" />
 </p>
-
-<h1 align="center">Hola, soy Robinzon 👋</h1>
-
-<!-- 
-Perfil GitHub de Robin1420 / Ryzon
-Recomendación:
-- Guarda tus imágenes en la carpeta /assets
-- Cambia los enlaces de LinkedIn, portafolio y correo cuando los tengas listos
-- Mantén los GIFs livianos para que carguen rápido
--->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f20611,100:111827&text=RYZON&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Todo%20empieza%20con%20una%20idea&descAlignY=58&descSize=18&animation=fadeIn" 
-    width="100%" 
-    alt="Ryzon Header"
-  />
-</p>
-
-<p align="center">
-  <img src="./assets/ryzon-logo.png" width="140" alt="Ryzon Logo" />
-</p>
-
 <h1 align="center">Hola, soy Robinzon Sánchez González 👋</h1>
 
 <h3 align="center">
