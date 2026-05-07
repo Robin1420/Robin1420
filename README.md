@@ -24,7 +24,13 @@
     />
   </a>
 </p>
+---
+
 ## Música que me acompaña
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+</p>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31cjbt5lkjqmqn64ogpsx4pkh7q4">
@@ -41,6 +47,7 @@
 </p>
 
 ---
+
 
 ## Sobre mí
 
