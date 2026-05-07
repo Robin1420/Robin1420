@@ -24,6 +24,13 @@
     />
   </a>
 </p>
+## Música que me inspira
+
+<p align="center">
+  <a href="https://open.spotify.com/track/TU_ID_DE_CANCION">
+    <img src="./assets/spotify-card.png" width="500" alt="Canción en Spotify" />
+  </a>
+</p>
 
 ---
 
