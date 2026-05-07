@@ -24,7 +24,6 @@
     />
   </a>
 </p>
----
 
 ## Música que me acompaña
 
